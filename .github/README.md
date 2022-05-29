@@ -12,6 +12,6 @@ Work on Windows XP:
 
 #### Released in 2021 March.
 
-[Original package](https://defacto2.net/f/a41896f)
+[Original package](https://defacto2.net/f/af27dbe)
 
 ![image](https://user-images.githubusercontent.com/513842/170848047-03dcafb7-a00d-46e9-8afa-c2cb94ceda2f.png)
